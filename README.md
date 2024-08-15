@@ -28,3 +28,9 @@ Este proyecto es un programa en C++ que permite gestionar la información de est
 - Si se encuentra algún problema al ejecutar el programa, verifica que el código esté correctamente copiado y que no haya errores de sintaxis.
 
 ---
+
+###Bibliografía
+
+https://stackoverflow.com/questions/42805379/dummy-function-what-is-that-supposed-to-be
+https://la.mathworks.com/help/stats/train-svm-classifier-with-categorical-predictors-and-generate-c-code.html
+https://copilot.microsoft.com (debugeador)
